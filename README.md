@@ -12,7 +12,7 @@
 | 1: Language | [Values, Types, and Operators][chapter-1-url] | :x: |
 | 1: Language | [Program Structure][chapter-2-url] | :link: [Here][chapter-2-folder] |
 
-[book-image]: https://eloquentjavascript.net/img/cover.jpg
+[book-image]: ./.github/eloquent-javascript-cover.jpg
 [book-url]: https://eloquentjavascript.net/
 
 [chapter-0-url]: https://eloquentjavascript.net/00_intro.html
