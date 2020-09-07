@@ -68,6 +68,8 @@ for (let n = 1; n <= 100; n++) {
 - [x] Verify the odd indexes
 - [x] Join the arrays, to form a string only
 
+## :bulb: Solutions
+
 ### :point_up: Me
 
 ```javascript
